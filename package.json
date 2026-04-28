@@ -1,6 +1,6 @@
 {
   "name": "my-first-package",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "My first npm package",
   "license": "ISC",
   "author": "quanvu-optimizely",
