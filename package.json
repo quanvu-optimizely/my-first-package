@@ -1,15 +1,19 @@
 {
-  "name": "my-first-package",
+  "name": "@quanvu-optimizely/my-first-package",
   "version": "0.1.0",
   "description": "My first npm package",
+  "homepage": "https://github.com/quanvu-optimizely/my-first-package#readme",
+  "bugs": {
+    "url": "https://github.com/quanvu-optimizely/my-first-package/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quanvu-optimizely/my-first-package.git"
+  },
   "license": "ISC",
   "author": "quanvu-optimizely",
   "type": "module",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/quanvu-optimizely/my-first-package.git"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
