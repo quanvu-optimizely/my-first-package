@@ -61,5 +61,5 @@ jobs:
 
       - name: Publish to npm
         run: npm publish --provenance --access public
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }} # Only needed if not using Trusted
+        # env:
+        #   NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }} # Only needed if not using Trusted
