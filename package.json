@@ -1,6 +1,6 @@
 {
   "name": "@quanvu-optimizely/my-first-package",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "My first npm package",
   "homepage": "https://github.com/quanvu-optimizely/my-first-package#readme",
   "bugs": {
