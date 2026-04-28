@@ -18,5 +18,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "echo \"Success: no linting issues found\"",
     "build": "echo \"Success: build completed\""
+  },
+  "dependencies": {
+    "lodash": "^4.18.1"
   }
 }
